@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/j4fhOtZQ)
 # Übung 3 – DOM, Event Listener und Local Storage
 
 Es soll eine kleine Bildergalerie implementiert werden, die ihre Bilder mittels JavaScript-DOM austauscht. Eine einfache Local Storage-Implementierung ermöglicht die Speicherung von Notizen.
